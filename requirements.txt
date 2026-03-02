@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+ortools
+requests
+streamlit
+folium
+streamlit-folium
+sqlalchemy
