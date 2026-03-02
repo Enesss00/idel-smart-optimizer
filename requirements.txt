@@ -7,3 +7,5 @@ streamlit
 folium
 streamlit-folium
 sqlalchemy
+passlib[bcrypt]
+python-multipart
