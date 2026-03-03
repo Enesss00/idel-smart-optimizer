@@ -1,11 +1,11 @@
-fastapi
-uvicorn
-pydantic
+# --- Cœur de l'application ---
+streamlit
 ortools
 requests
-streamlit
+
+# --- Cartographie ---
 folium
 streamlit-folium
-sqlalchemy
-passlib[bcrypt]
-python-multipart
+
+# --- Utilitaires ---
+geopy
